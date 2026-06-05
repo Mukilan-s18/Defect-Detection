@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+saved_artefacts/
+Dataset/
+*.pptx
+*.ppt
+presentation_slides.md
